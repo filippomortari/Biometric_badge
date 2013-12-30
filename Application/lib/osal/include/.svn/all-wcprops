@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6/trunk/Application/lib/osal/include
+END
+OSAL_PwrMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/Application/lib/osal/include/OSAL_PwrMgr.h
+END
+OSAL.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/Application/lib/osal/include/OSAL.h
+END
+OSAL_Timers.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/Application/lib/osal/include/OSAL_Timers.h
+END
+OSAL_Tasks.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/Application/lib/osal/include/OSAL_Tasks.h
+END
+OSAL_Memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/Application/lib/osal/include/OSAL_Memory.h
+END
+ZComDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Application/lib/osal/include/ZComDef.h
+END
+OSAL_Custom.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/Application/lib/osal/include/OSAL_Custom.h
+END

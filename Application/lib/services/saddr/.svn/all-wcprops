@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/Application/lib/services/saddr
+END
+saddr.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Application/lib/services/saddr/saddr.h
+END
+saddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Application/lib/services/saddr/saddr.c
+END

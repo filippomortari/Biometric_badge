@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/Application/lib/mac/high_level
+END
+mac_spec.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/Application/lib/mac/high_level/mac_spec.h
+END
+mac_cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/Application/lib/mac/high_level/mac_cfg.c
+END
+mac_pib.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/Application/lib/mac/high_level/mac_pib.h
+END
+mac_high_level.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/Application/lib/mac/high_level/mac_high_level.h
+END

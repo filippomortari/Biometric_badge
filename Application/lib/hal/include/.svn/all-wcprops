@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/47/trunk/Application/lib/hal/include
+END
+hal_board.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Application/lib/hal/include/hal_board.h
+END
+hal_adc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Application/lib/hal/include/hal_adc.h
+END
+hal_sleep.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Application/lib/hal/include/hal_sleep.h
+END
+hal_key.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Application/lib/hal/include/hal_key.h
+END
+hal_uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Application/lib/hal/include/hal_uart.h
+END
+hal_drivers.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/Application/lib/hal/include/hal_drivers.h
+END
+hal_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Application/lib/hal/include/hal_timer.h
+END
+hal_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Application/lib/hal/include/hal_defs.h
+END
+hal_assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/Application/lib/hal/include/hal_assert.h
+END
+hal_lcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/47/trunk/Application/lib/hal/include/hal_lcd.h
+END
+hal_led.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Application/lib/hal/include/hal_led.h
+END

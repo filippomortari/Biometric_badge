@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/83/trunk/Application/lib/hal/target/CC2430EB
+END
+hal_uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/83/trunk/Application/lib/hal/target/CC2430EB/hal_uart.c
+END
+hal_target.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/Application/lib/hal/target/CC2430EB/hal_target.h
+END
+hal_board_cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/47/trunk/Application/lib/hal/target/CC2430EB/hal_board_cfg.h
+END
+hal_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/Application/lib/hal/target/CC2430EB/hal_timer.c
+END
+hal_mailbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/Application/lib/hal/target/CC2430EB/hal_mailbox.h
+END
+hal_lcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/Application/lib/hal/target/CC2430EB/hal_lcd.c
+END
+hal_led.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/Application/lib/hal/target/CC2430EB/hal_led.c
+END
+hal_target.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/Application/lib/hal/target/CC2430EB/hal_target.c
+END
+hal_adc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/Application/lib/hal/target/CC2430EB/hal_adc.c
+END
+hal_sleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/Application/lib/hal/target/CC2430EB/hal_sleep.c
+END
+hal_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/Application/lib/hal/target/CC2430EB/hal_key.c
+END
+hal_mcu.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/Application/lib/hal/target/CC2430EB/hal_mcu.h
+END
+hal_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/Application/lib/hal/target/CC2430EB/hal_types.h
+END
